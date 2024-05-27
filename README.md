@@ -18,4 +18,5 @@
 - [Deface](https://github.com/ORB-HD/deface)
 - [Handbrake](https://github.com/HandBrake/HandBrake)
 - [Keyviz](https://github.com/mulaRahul/keyviz)
+- [MakeMKV](https://www.makemkv.com/) (Not FOSS)
 - [MPV](https://github.com/mpv-player/mpv)

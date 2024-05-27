@@ -1,4 +1,11 @@
-# Awesome Stack
+# Awesome List
+
+## AI
+- [Jan](https://github.com/janhq/jan/releases)
+- [A1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+ 
+## Misc
+- [NanaZip](https://github.com/M2Team/NanaZip)
 
 ## Server
 - [Bitwarden](https://github.com/bitwarden/server)
@@ -7,6 +14,8 @@
 - [Penpot](https://github.com/penpot/penpot)
 - [Wordpress](https://github.com/WordPress/WordPress)
 
-## Desktop
+## Video
+- [Deface](https://github.com/ORB-HD/deface)
+- [Handbrake](https://github.com/HandBrake/HandBrake)
 - [Keyviz](https://github.com/mulaRahul/keyviz)
-- [NanaZip](https://github.com/M2Team/NanaZip)
+- [MPV](https://github.com/mpv-player/mpv)

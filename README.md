@@ -15,17 +15,16 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 ## Wordpress
-- [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager)
-  Fieldmanager is a comprehensive toolkit for building forms, metaboxes, and custom admin screens for WordPress.
-- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme)
-- [Automattic/_s](https://github.com/Automattic/_s)
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
-- [Automattic/themes](https://github.com/Automattic/themes)
-- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress)
-- [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
-- [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress)
-- [flyntwp/flynt](https://github.com/flyntwp/flynt)
-- [frontity/frontity](https://github.com/frontity/frontity)
+- [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager): Fieldmanager is a comprehensive toolkit for building forms, metaboxes, and custom admin screens for WordPress.
+- [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme): This is the home of Amnesty International's WordPress theme, which is currently in production use on over 30 sites.
+- [Automattic/_s](https://github.com/Automattic/_s): Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso): Calypso is the new WordPress.com front-end – a beautiful redesign of the WordPress dashboard using a single-page web application, powered by the WordPress.com REST API. Calypso is built for reading, writing, and managing all of your WordPress sites in one place.
+- [Automattic/themes](https://github.com/Automattic/themes): The development repository for themes maintained by the Automattic Theme Team.
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress): The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. 
+- [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate): A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
+- [dropndot/awesome-wordpress](https://github.com/dropndot/awesome-wordpress): A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
+- [flyntwp/flynt](https://github.com/flyntwp/flynt): Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for a11y and fast page load results.
+- [frontity/frontity](https://github.com/frontity/frontity): Frontity - The React Framework for WordPress.
 - [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress)
 - [greenpeace/planet4-develop](https://github.com/greenpeace/planet4-develop)
 - [kanbanwp/kanban](https://github.com/kanbanwp/kanban)

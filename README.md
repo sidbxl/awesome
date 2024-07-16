@@ -15,7 +15,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 ## Wordpress
-- [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager)
+- [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager) Fieldmanager is a comprehensive toolkit for building forms, metaboxes, and custom admin screens for WordPress.
 - [amnestywebsite/humanity-theme](https://github.com/amnestywebsite/humanity-theme)
 - [Automattic/_s](https://github.com/Automattic/_s)
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
